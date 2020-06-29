@@ -1,0 +1,9 @@
+admin one
+========
+email -> admin@gmail.com
+password -> admin123
+
+admin one
+========
+email -> su@gmail.com	
+password -> su123
